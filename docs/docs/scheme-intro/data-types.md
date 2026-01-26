@@ -129,8 +129,8 @@ There are 3 types of comments in Scheme:
 2. `#;` quote single S-Expression (list/tree or atoms)
 3. `#|   |#` those are multiline comments that can wrap any text inside
 
-There is a convention to use single semicolon to create a comment afte the line of code.
-And double semicolon to create comments that appear on its onw in the line.
+There is a convention to use single semicolon to create a comment after the line of code.
+And double semicolon to create comments that appear on its own in the line.
 
 :::info
 
